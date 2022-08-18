@@ -15,7 +15,7 @@
         <p class="btn btn-ghost normal-case text-2xl">app-name</p>
     </div>
 
-    <label class="swap swap-rotate mr-1">
+    <label class="swap swap-rotate mr-2">
         <input type="checkbox" data-toggle-theme="light,dracula" data-act-class="ACTIVECLASS"
                checked={theme !== 'light'}/>
         <svg class="swap-on fill-current w-10 h-10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
